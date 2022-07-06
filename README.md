@@ -25,4 +25,5 @@ This new assignment consists of four technical analysis deliverables. You will s
 The new ETL function performs correctly and the data is successfuly added to a PostgreSQL database as seen in the images below. 
 
 ![Ratings Query 2](movies_row.png)
-![Ratings Query 1](ratings_row.png)
+
+![Ratings Query 1](ratings_rows.png)
